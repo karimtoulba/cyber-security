@@ -1,0 +1,14 @@
+
+CIA TRIAD: 
+
+- Confidentiality
+  Definition: Only authorized individuals, processes, and systems that should have access to information can access it. 
+  Security: In Storage (HD, SSD), In Transit (HTTPS), In Process (CPU, RAM).
+
+- Integrity:
+  Definition: Guarding data/information, in transit or at rest, from unauthorized destruction or modification. Ensuring data is coming from authenticated origin.
+  Security: Hashing Encryption.
+
+- Availability: 
+  Definition: Ensuring that access to information, and the networked services that host the information, are accessible in a reliable and timely manner by users at all times.
+  Security: DDoS attacks, Hardware failures, Software bugs (Backups and Data Loss Prevention).
